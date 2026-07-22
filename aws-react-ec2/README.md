@@ -72,7 +72,8 @@ This configuration ensures that only my laptop can SSH into the server and acces
 
 ## 📊 Deployment Architecture
 
-<img width="2662" height="550" alt="image" src="https://github.com/user-attachments/assets/3a246040-7dc8-44a7-ad5a-674983de47aa" />
+<img width="1774" height="887" alt="ChatGPT Image Jul 22, 2026, 10_38_45 PM" src="https://github.com/user-attachments/assets/4e9a4e5e-311f-4556-8793-94208176419b" />
+
 
 ---
 

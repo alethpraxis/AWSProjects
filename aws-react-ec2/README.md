@@ -6,9 +6,6 @@ This project is a React + TypeScript (TSX) web application deployed on an AWS EC
 
 For development and testing, the application runs on port **8080** using `npm run dev`. Access to the application is restricted through AWS Security Groups, allowing only my public IP address to access the application, providing a secure testing environment.
 
-
-<img width="2662" height="550" alt="image" src="https://github.com/user-attachments/assets/3a246040-7dc8-44a7-ad5a-674983de47aa" />
-
 ---
 
 ## 🛠️ Tech Stack
@@ -75,7 +72,7 @@ This configuration ensures that only my laptop can SSH into the server and acces
 
 ## 📊 Deployment Architecture
 
-> *(Insert your architecture diagram here)*
+<img width="2662" height="550" alt="image" src="https://github.com/user-attachments/assets/3a246040-7dc8-44a7-ad5a-674983de47aa" />
 
 ---
 
